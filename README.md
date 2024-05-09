@@ -13,3 +13,7 @@ Using [AWS CDK](https://www.npmjs.com/package/aws-cdk) for typescipt, provide an
 
   | :memo: | We understand that all decisions in Engineering are tradeoffs, so please include a readme with your decision-making process. |
   |--------|:-----------------------------------------------------------------------------------------------------------------------------|
+
+
+## The Extra Mile
+* Add a metrics dashboard (what metrics to measure is important here)
